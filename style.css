@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(230, 255, 225);
+}
+
+#gallery {
+  background-color: rgb(230, 255, 225);
+}
+#carouselExampleCaptions {
+  width: 800px;
+  border-radius: 10px;
+}
+
+section {
+  padding-top: 5rem;
+}
